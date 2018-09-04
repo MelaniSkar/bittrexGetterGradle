@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.vertx:vertx-proton:3.5.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-proton/3.5.3/c516157d3af288e6f9ad51feb6731773442f6c1/vertx-proton-3.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-proton/3.5.3/3bc13962ff340ac52e2a56868ac5ce4b8b806866/vertx-proton-3.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
