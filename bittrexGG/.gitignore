@@ -1,0 +1,6 @@
+.gradle
+.idea
+.vertx
+/config/application.yml
+/config/application.vmoptions
+/build/

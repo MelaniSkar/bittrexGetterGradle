@@ -16,7 +16,7 @@ public class MainVerticle extends AbstractVerticle {
   public void start(Future<Void> startFuture) throws Exception {
     String url = "https://bittrex.com/api/v1.1/public/getmarketsummary?market=usd-btc";
     WebClient client = WebClient.create(vertx);
-    vertx.setPeriodic(25000, event -> {
+    vertx.setPeriodic(10000, event -> {
     client
       .getAbs(url)
       .as(BodyCodec.jsonObject())
